@@ -1,5 +1,5 @@
 # Bootcamp Impulso
-*Tecnologias
+### Tecnologias
 - Javascript
 - HTML5
 - CSS
