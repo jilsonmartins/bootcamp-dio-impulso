@@ -1,9 +1,10 @@
-# Bootcamp Impulso com as tecnologias
--Javascript
--HTML5
--CSS
--Typescript
--Node.js
--ReactJS
--PostgreSQL
--MongoDB
+# Bootcamp Impulso
+** Tecnologias
+- Javascript
+- HTML5
+- CSS
+- Typescript
+- Node.js
+- ReactJS
+- PostgreSQL
+- MongoDB
